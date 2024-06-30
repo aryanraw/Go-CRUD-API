@@ -49,7 +49,7 @@ The server will start at `http://localhost:8000`.
 - **Method:** `GET`
 - **Description:** Retrieves a list of all movies.
 
-![Get All Movies](/ss/go-GET ALL.png)
+![Get All Movies](/ss/go-GET-ALL.png)
 
 ### Get a Single Movie
 
@@ -57,7 +57,7 @@ The server will start at `http://localhost:8000`.
 - **Method:** `GET`
 - **Description:** Retrieves a movie by its ID.
 
-![Get Single Movie](/ss/go-GET BY ID.png)
+![Get Single Movie](/ss/go-GET-BY-ID.png)
 
 ### Create a New Movie
 
